@@ -1,0 +1,9 @@
+# окружение
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# сырые данные скачиваются автоматически (retail_ts.load_online_retail)
+hw*/data/
