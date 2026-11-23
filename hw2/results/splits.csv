@@ -1,0 +1,4 @@
+frequency,periods,observed,initial_train,initial_train_last_period,test_periods,test_first_period,test_last_period,common_first_target,common_last_target,common_targets
+D,320,304,220,2011-08-14,100,2011-08-15,2011-12-08,2011-10-24,2011-12-08,40
+W,52,51,35,2011-08-06,17,2011-08-13,2011-12-03,2011-10-01,2011-12-03,10
+M,12,12,8,2011-07-01,4,2011-08-01,2011-11-01,2011-09-01,2011-11-01,3
